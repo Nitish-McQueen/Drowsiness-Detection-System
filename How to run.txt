@@ -1,0 +1,10 @@
+1. Open Anaconda Prompt
+2. Conda activate drowsiness
+3. g:
+4. cd driver drowsiness detection
+5. python app.py
+
+
+
+Domain- Safety measure in automobile
+Technique- Deep Learning
